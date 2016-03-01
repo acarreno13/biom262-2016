@@ -1,0 +1,18 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Skipping web check... [ --noweb ] 
+Writing this text to log file [ CEUpwd.log ]
+Analysis started: Tue Mar  1 11:00:56 2016
+
+** Unused command line option: –-keep 
+** Unused command line option: hapmap-CEU.txt 
+
+ERROR: Problem parsing the command line arguments.
